@@ -1,0 +1,8 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/__pycache__/
+backend/output.csv
+backend/data/*
+!backend/data/README.txt
+.env

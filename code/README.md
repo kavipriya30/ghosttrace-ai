@@ -1,0 +1,1 @@
+Submission code directory. Copy the backend/app implementation and frontend source here only if your platform expects all source code under code/. Do not include data, virtualenvs, node_modules, or build outputs. See the root README for local run instructions.

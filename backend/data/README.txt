@@ -1,0 +1,1 @@
+Put the supplied challenge CSV files and local text/media corpus here. Do not submit this folder as part of code.zip. For images, this baseline needs an OCR/VLM extension to inspect embedded text; it does not claim that unprocessed binary images were scanned.
